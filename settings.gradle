@@ -4,6 +4,18 @@ pluginManagement {
 			name = 'Fabric'
 			url = 'https://maven.fabricmc.net/'
 		}
+    maven {
+        name = "Modrinth"
+        url = "https://api.modrinth.com/maven"
+    }
+    maven {
+        name = "TechReborn"
+        url = "https://maven.terraformersmc.com/releases"
+    }
+    maven {
+        name = "Fabric"
+        url = "https://maven.fabricmc.net"
+    }
 		mavenCentral()
 		gradlePluginPortal()
 	}
