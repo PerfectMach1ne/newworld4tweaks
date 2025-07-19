@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
-	"compatibilityLevel": "JAVA_21",
+	"package": "com.lvsa.nw4.tweaks.mixin.client",
+	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"EggsampleClientMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

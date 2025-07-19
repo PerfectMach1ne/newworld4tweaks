@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin",
-	"compatibilityLevel": "JAVA_21",
+	"package": "com.lvsa.nw4.tweaks.mixin",
+	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"H2SO4Mixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
