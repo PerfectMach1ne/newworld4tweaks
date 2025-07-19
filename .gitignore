@@ -1,7 +1,9 @@
 # gradle
 
+remappedSrc/
 .gradle/
-.gradle-8.8/
+gradle/
+gradle-8.8/
 *.zip
 build/
 out/
